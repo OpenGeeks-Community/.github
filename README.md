@@ -1,1 +1,1 @@
-# .github
+OpenGeeks is a vibrant community of tech enthusiasts committed to learning, sharing, and growing together. We empower students and developers to explore cutting-edge technologies, enhance their skills, and collaborate on innovative projects. With a focus on inclusivity and knowledge-sharing, OpenGeeks is the perfect space to kickstart your tech journey and contribute to a supportive ecosystem.
